@@ -1,5 +1,5 @@
 baseURL = "http://localhost:1313/subdir"
-title = "Puppet"
+title = "Puppet - เครดิตฟรี"
 
 theme = "puppet"
 themesDir = "../.."
@@ -64,13 +64,13 @@ weight = 50
 [[menu.main]]
 identifier = "github"
 name = "Github"
-url = "https://github.com/roninro/hugo-theme-puppet/"
+url = "https://github.com/looper-dev/hugo-puppet"
 weight = 100
 
 
 [params]
 author = "Puppet"
-description = "A simple and clean theme for Hugo"
+description = "รายละเอียดเพจ A"
 keywords = "blog,developer,personal"
 img_home = "img/home-bg.jpg"
 img_404 = "img/404-bg.jpg"
