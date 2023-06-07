@@ -8,7 +8,7 @@
   HUGO_VERSION = "0.106.0"
 
 [context.production.environment]
-  HUGO_BASEURL = "https://hugo-theme-puppet.netlify.app/"
+  HUGO_BASEURL = "https://hugo-puppet.netlify.app/"
 
 [context.deploy-preview]
   command = "hugo -s exampleSite -b $DEPLOY_PRIME_URL"
