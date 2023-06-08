@@ -43,22 +43,22 @@ unsafe = true
 [menu]
 [[menu.main]]
 identifier = "home"
-name = "Home"
+name = "หน้าหลัก"
 url = "/"
 weight = -100
 [[menu.main]]
 identifier = "archive"
-name = "Archive"
+name = "รวมเว็บ"
 url = "/archive/"
 weight = 10
 [[menu.main]]
 identifier = "guide"
-name = "Guide"
+name = "แนะนำ"
 url = "/series/themes-guide/"
 weight = 20
 [[menu.main]]
 identifier = "about"
-name = "About"
+name = "เกี่ยวกับ"
 url = "/about/"
 weight = 50
 [[menu.main]]
