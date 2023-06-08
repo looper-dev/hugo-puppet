@@ -63,7 +63,7 @@ url = "/about/"
 weight = 50
 [[menu.main]]
 identifier = "github"
-name = "Github"
+name = "ที่เก็บ"
 url = "https://github.com/looper-dev/hugo-puppet"
 weight = 100
 

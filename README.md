@@ -32,10 +32,10 @@
 $ git clone https://github.com/roninro/hugo-theme-puppet.git themes/puppet
 ```
 
-## Configuration
+## การกำหนดค่า
 
-Take a look inside the [exampleSite](exampleSite) folder of this theme. You'll find a file called [config.toml](exampleSite/config.toml). 
-To use it, copy the [config.toml](exampleSite/config.toml) in the root directory of your website. Overwrite the existing config file if necessary.
+ลองดูใน โฟลเดอร์ [exampleSite](exampleSite) ของธีมนี้ คุณจะพบไฟล์ชื่อ [config.toml](exampleSite/config.toml). 
+หากต้องการใช้ ให้คัดลอก [config.toml](exampleSite/config.toml) ในไดเรกทอรีรากของเว็บไซต์ของคุณ เขียนทับไฟล์ปรับแต่งที่มีอยู่หากจำเป็น.
 
 ## Content
 
